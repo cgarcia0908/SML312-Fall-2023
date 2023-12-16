@@ -1,4 +1,4 @@
-# sml312
+# Predictive Analysis of PGA Tour Performance Statistics 2017-2023
 This project was done as a part of SML312: Research Projects in Data
 Science offered by Princeton University in Fall 2023. A very special
 thanks to Matt and Will Courchene for allowing me access to the data
